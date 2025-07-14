@@ -26,6 +26,6 @@ int main(){
     Cuadrado Cuadrado = Cuadrado(base,altura);
     cout<<"El area del Cuadrado es: "<<Cuadrado.CalcularArea()<<endl;
 
-
+    cout<<"Fin del programa";
     return 0;
 }
