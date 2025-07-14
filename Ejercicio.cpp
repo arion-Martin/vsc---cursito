@@ -89,5 +89,5 @@ int main(){
 	esfera.Calcular();
 	Piramide piramide = Piramide(lado, altura);
 	piramide.Calcular();
-	
+	return 0;
 }
